@@ -77,6 +77,42 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_b35fc301eb714460800d1bfed3ad7e8f_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 4a9b9af6f4c01a74c8b3410f07cd688b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_266c5d3aa4ad4f3b97976ab76c207e4e_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 0abc6552c47ce1a45a754fdcc0b41285, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_4f72c19863ba4e079b9c7bb0469a6bfd_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 0abc6552c47ce1a45a754fdcc0b41285, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7e8269f213644555b7a98ffc380ea03c_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3a60a7859bf8eb040a119fa916b70f5b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_96d2395876fb4d199d8b0032b4e721a8_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: fb3b66953005cc14ea2ffb60c4da132c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9ac450f629ec4683907144a0aeb9637a_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 0abc6552c47ce1a45a754fdcc0b41285, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a2c9ce0319014e1b91e26ad87ab5fdc3_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 0abc6552c47ce1a45a754fdcc0b41285, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_abce937d42f743c7b35dee623e7742e0_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 4a9b9af6f4c01a74c8b3410f07cd688b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_cabbaadc9e0f4ac5959a6b6cb5d10ce3_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: fb3b66953005cc14ea2ffb60c4da132c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -119,6 +155,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _Scale: 0.1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
